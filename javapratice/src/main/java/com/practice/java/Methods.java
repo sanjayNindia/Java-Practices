@@ -23,5 +23,5 @@ public class Methods {
     String m4(String quote){
         return ("Today's Quote is "+quote);
     }
-
+    
 }
