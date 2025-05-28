@@ -1,6 +1,6 @@
 package com.practice.java.InHeritance;
 
-public class Calc{
+public class Calc {
     int add(int a, int b){
         return a+b;
     }
@@ -8,4 +8,6 @@ public class Calc{
     int sub(int a, int b){
         return a-b;
     }
+
 }
+
