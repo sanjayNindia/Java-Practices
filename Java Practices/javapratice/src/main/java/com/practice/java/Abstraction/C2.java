@@ -1,3 +1,4 @@
+// Abstact Class - 2
 package com.practice.java.Abstraction;
 
 public class C2 extends C1 implements I1 {

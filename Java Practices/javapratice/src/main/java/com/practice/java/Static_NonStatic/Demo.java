@@ -1,3 +1,5 @@
+// Example for Static and Non-Static
+
 package com.practice.java.Static_NonStatic;
 
 public class Demo {

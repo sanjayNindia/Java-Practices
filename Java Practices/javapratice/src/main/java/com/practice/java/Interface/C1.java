@@ -1,4 +1,6 @@
-package com.practice.java.Interface;
+ // Class 1 which implements the Interface 1 & 2, and extends Class 2
+ 
+ package com.practice.java.Interface;
 
 public class C1 extends C2 implements I1,I2{
 

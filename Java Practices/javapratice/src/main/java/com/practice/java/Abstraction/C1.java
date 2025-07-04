@@ -1,3 +1,4 @@
+// Abstact Class - 1
 package com.practice.java.Abstraction;
 
 public abstract class C1 {

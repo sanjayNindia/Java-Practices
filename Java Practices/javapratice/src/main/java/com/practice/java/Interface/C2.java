@@ -1,3 +1,4 @@
+// Class 2
 package com.practice.java.Interface;
 
 public class C2 {

@@ -1,3 +1,5 @@
+// Interface - 2
+
 package com.practice.java.Interface;
 
 public interface I2 {
